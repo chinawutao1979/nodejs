@@ -1,7 +1,7 @@
-alert("333333333");
-// var hello = require('./helloModule');
+// alert("333333333");
+ var hello = require('./helloModule');
 
-// hello();
+ hello();
 function onTest(){
 
     alert("eeeeeeeeeeeeee");
