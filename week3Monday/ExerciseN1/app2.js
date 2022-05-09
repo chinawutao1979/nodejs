@@ -1,4 +1,4 @@
-alert("11111111");
-var hello = require('./helloModule');
+alert("2222222222");
+// var hello = require('./helloModule');
 
-hello();
+// hello();
