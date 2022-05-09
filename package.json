@@ -1,11 +1,19 @@
 {
-  "name": "nodefolder",
+  "name": "nodejs",
   "version": "1.0.0",
   "description": "",
-  "main": "app.js",
+  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "test"
   },
-  "author": "Tao Wu",
-  "license": "ISC"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chinawutao1979/nodejs.git"
+  },
+  "author": "tao wu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chinawutao1979/nodejs/issues"
+  },
+  "homepage": "https://github.com/chinawutao1979/nodejs#readme"
 }
